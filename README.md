@@ -1,4 +1,4 @@
-# Tank Wars - Homework 1 (Computer Graphics Elements)
+# Tank Wars - Homework 1 (Computer Graphics Elements) - Luca Plian 332CA
 ## Overview
 
 **Tank Wars** is a two-player 2D tank battle game developed using **C++** and **OpenGL**. The game features dynamic terrain, physics-based projectile movement, and strategic power-ups. Players control tanks that navigate a deformable landscape, aiming to eliminate the opponent by reducing their health to zero.
